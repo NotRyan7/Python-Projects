@@ -1,0 +1,10 @@
+# Digit Recognizer (CNN)
+
+This project implements a Convolutional Neural Network (CNN) to classify handwritten digits using the MNIST dataset. The CNN architecture is designed to recognize and categorize digits from 0 to 9 with high accuracy.
+
+## Key Features:
+- **Data**: MNIST dataset containing 28x28 pixel grayscale images of handwritten digits.
+- **Model**: CNN with convolutional, pooling, and fully connected layers.
+- **Performance**: Achieves high classification accuracy and is optimized through training and validation.
+
+The project includes scripts for training the model, evaluating performance, and generating predictions for new data.
