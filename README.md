@@ -4,8 +4,6 @@ This repository contains various Python projects focused on different areas such
 
 ## Projects Included:
 1. **Digit Recognizer (CNN)**: A machine learning project using Convolutional Neural Networks(CNN to recognize handwritten digits.
-2. **Project 2**: (Null).
-3. **Project 3**: (Null).
 
 
 ## How to Use:
